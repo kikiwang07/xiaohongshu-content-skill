@@ -1,0 +1,7 @@
+interface:
+  display_name: "小红书创作变现工作流"
+  short_description: "整理灵感、研究对标、生成拍摄清单并优化商单脚本"
+  default_prompt: "使用 $xiaohongshu-creator-workflow 处理我的小红书创作材料，并根据任务类型生成可直接使用的成果。"
+
+policy:
+  allow_implicit_invocation: true
